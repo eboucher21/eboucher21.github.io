@@ -1,4 +1,4 @@
-#CS-499 ePortfolio
+# CS-499 ePortfolio
 
 ## Introduction
 Hello, my name is Evan Boucher.
