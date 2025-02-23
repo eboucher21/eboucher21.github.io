@@ -1,7 +1,7 @@
 # CS-499 ePortfolio
 
 ## Introduction
-Hello, my name is Evan Boucher and I am currently a senior at SNHU. This page provides an ePortfolio for my work on the CS-499 capstone project where I took a project I had previously created, and made enchancements to it.
+Hello, my name is Evan Boucher and I am currently at the end of my senior year at SNHU. This page provides an ePortfolio for my work on the CS-499 capstone project where I took a project I had previously created, and made enchancements to it.
 
 ## Professional Self-Assessment
   
