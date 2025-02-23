@@ -1,7 +1,7 @@
 # CS-499 ePortfolio
 
 ## Introduction
-Hello, my name is Evan Boucher.
+Hello, my name is Evan Boucher and I am currently a senior at SNHU. This page provides an ePortfolio for my work on the CS-499 capstone project where I took a project I had previously created, and made enchancements to it.
 
 ## Purpose 
 The purpose of this page is to show the improvement of my skills by taking a previously made project, and enhancing it in three different ways. The project I chose is an arena shooter game that I created in a game design class. The enchancements I have made to this project are split into three main categories; Software Design and Engineering, Algorithms and Data Structures, and Databases. Before working on the enhancements I reviewed the original code in the project to show where I am starting from, and to outline my goals. The reason I selected a game to enhance is because I feel that working with this artifact will let me be more creative, alongside having all of the changes that I make be very noticeable. This game was created in Unreal Engine, one of the most popular game engines. When I created the original artifact, the class used Unreal Engine's blueprint feature instead of using C++. This means that I will have to make my project using both blueprints and C++ as they can both be used in a project.
@@ -32,3 +32,6 @@ The purpose of this page is to show the improvement of my skills by taking a pre
 
 ## Professional Self-Review
 
+
+## Game Download
+[Download Game Here](https://drive.google.com/file/d/1dP0vr011IjWT9NcxDnDONSZDmBiezICN/view?usp=sharing)
